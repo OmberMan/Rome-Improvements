@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 85,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+	  "promotions": ["Cover I"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+ {
+		"name": "Ballista",
+		"unitType": "Siege",
+		"replaces": "Catapult",
+		"uniqueTo": "Rome",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 75,
+		"requiredTech": "Mathematics",
+		"obsoleteTech": "Physics",
+		"upgradesTo": "Trebuchet",
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-1] Sight"],
+		"hurryCostModifier": 20,
+		"attackSound": "throw"
+	}
+]
