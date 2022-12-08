@@ -12,7 +12,7 @@
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
-	  "promotions": ["Cover I"],
+	 	"promotions": ["Cover I"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
