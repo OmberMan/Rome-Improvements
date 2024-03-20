@@ -1,0 +1,12 @@
+{
+                "name": "August",
+                "preferredVictoryType": "Domination",
+                "food": 6,
+                "production": 6,
+                "gold": 7,
+                "culture": 6,
+                "science": 5,
+                "faith": 4,
+                "military": 9,
+                "warMongering": 8
+        },
