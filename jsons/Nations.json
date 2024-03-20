@@ -2,6 +2,7 @@
 	{
 		"name": "Rome",
 		"leaderName": "Augustus Caesar",
+		"personality": "Augustus",
 		"adjective": ["Roman"],
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
