@@ -9,6 +9,12 @@
                 "science": 5,
                 "faith": 4,
                 "military": 9,
-                "warMongering": 8
+                //"warMongering": 8
+"aggressive": 8,
+      "declareWar": 8,
+      "commerce": 6,
+      "diplomacy": 5,
+      "loyal": 5,
+      "expansion": 10,
         },
 ]
