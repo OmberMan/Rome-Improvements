@@ -30,6 +30,6 @@
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-1] Sight"],
 		"hurryCostModifier": 20,
-		"attackSound": "throw"
+		"attackSound": "crossbow"
 	}
 ]
